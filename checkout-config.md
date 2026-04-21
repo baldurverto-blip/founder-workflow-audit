@@ -8,7 +8,15 @@
 
 ## Current Setup
 
-**Status:** Pending credentials
+**Status:** Deprecated config | Checkout pending
+
+### Live Page
+**URL:** DEPRECATED
+
+**Hard rule:** do not use here.now for zero-to-MRR landing pages or intake flows.
+Use GitHub Pages or another explicitly approved surface instead.
+
+The old here.now URL and intake path are intentionally retired and must not be reused.
 
 ---
 
